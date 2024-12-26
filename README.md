@@ -10,7 +10,6 @@ Contents
 - [Project URL](#project-urls)
 - [Features](#features)
 - [Project Content](#project-content)
-- [How-to-run?](#how-to-run)
 - [Screenshot](#screenshot)
 - [Challenge](#Challenge)
 - [Technologies Used](#TechnologiesUsed)
@@ -38,22 +37,6 @@ This project contains the following files and folders:
 - **style.css:** CSS file that creates the design of the project.
 
 - **images/**: The folder containing the images used on the page.
-
-# How to Run?
-
-1. **Download Project File:**
-   Copy this project to your computer or download it as ZIP.
-
-``` bash
-git clone https://mkalkandev.github.io/Product-preview-card-component/
-''''
-
-2. **Open HTML File:**
-   You can view the `index.html` file in the project directory by opening it in any browser.
-
-3. **Access via GitHub Pages:**
-
-You can access the project directly from [Product preview card component/]https://mkalkandev.github.io/Product-preview-card-component/).
 
 # Screenshot
 
