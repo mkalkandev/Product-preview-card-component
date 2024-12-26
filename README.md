@@ -13,7 +13,6 @@ Contents
 - [How-to-run?](#how-to-run)
 - [Screenshot](#screenshot)
 - [Challenge](#Challenge)
-- [Technologies Used](#technologies used)
 - [Setup](#setup)
 - [Author](#author)
 - [License](#license)
