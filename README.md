@@ -13,7 +13,7 @@ Contents
 - [How-to-run?](#how-to-run)
 - [Screenshot](#screenshot)
 - [Challenge](#Challenge)
-- [Setup](#setup)
+- [Technologies Used](#TechnologiesUsed)
 - [Author](#author)
 - [License](#license)
 - [Show-Your-Support](#show-your-support)
@@ -39,7 +39,7 @@ This project contains the following files and folders:
 
 - **images/**: The folder containing the images used on the page.
 
-#How to Run?
+# How to Run?
 
 1. **Download Project File:**
    Copy this project to your computer or download it as ZIP.
@@ -55,12 +55,12 @@ git clone https://mkalkandev.github.io/Product-preview-card-component/
 
 You can access the project directly from [Product preview card component/]https://mkalkandev.github.io/Product-preview-card-component/).
 
-#Screenshot
+# Screenshot
 
 ![Project Image](./preview-desktop.jpg)
 (./preview-mobile.jpg)
 
-#Challenge
+# Challenge
 
 My app allows users to:
 
