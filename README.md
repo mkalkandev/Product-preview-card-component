@@ -58,15 +58,18 @@ I plan to continue exploring and learning more about this technology, so there w
 
 Operating System
 
-![Windows Icon](https://camo.githubusercontent.com/4147b3581940db2affaa27ea9357891 c59a1cb3efe74fd025cd4022c0d591114/68747470733a2f2f696d672e736869656c64732 e696f2f62616467652f57696e646f77732d3031374144373f7374796c653d666f722d7468 652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465)
+![Windows İkonu](https://camo.githubusercontent.com/4147b3581940db2affaa27ea9357891c59a1cb3efe74fd025cd4022c0d591114/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3031374144373f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465)
+
 
 Beginning phase
 
-![HTML Icon](https://img.shields.io/badge/HTML-5-red?style=for-the-badge&logo=html5&logoColor=white) ![CSS Icon](https://img.shields. io/badge/CSS-3-blue?style=for badge&logo=css3&logoColor=white)
+![HTML Icon](https://img.shields.io/badge/HTML-5-red?style=for-the-badge&logo=html5&logoColor=white) ![CSS İkonu](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
+
 
 tools
 
-![Figma Icon](https://img.shields.io/badge/Figma-8A019C?style=for-the-badge&logo=figma&logoColor=white) ![Go Icon](https://img.shields.io/ badge/Git-F1502F?style=for badge&logo=git&logoColor=white)
+![Figma Icon](https://img.shields.io/badge/Figma-8A019C?style=for-the-badge&logo=figma&logoColor=white) ![Git İkonu](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 
