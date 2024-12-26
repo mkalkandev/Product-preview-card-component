@@ -12,7 +12,7 @@ Contents
 - [Project Content](#project-content)
 - [Screenshot](#screenshot)
 - [Challenge](#challenge)
-- [Technologies Used](#technologiesUsed)
+- [Technologies-Used](#technologies-Used)
 - [Author](#author)
 - [License](#license)
 - [Show-Your-Support](#show-your-support)
