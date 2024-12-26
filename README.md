@@ -14,7 +14,7 @@ Contents
 - [Challenge](#challenge)
 - [Technologies-Used](#technologies-Used)
 - [Author](#author)
-- [License](#license)
+- [Licence](#licence)
 - [Show-Your-Support](#show-your-support)
 
 # Project URL
