@@ -104,7 +104,7 @@ body{
     border-radius: 1rem;
 }
 .card{
-    height: 450px;
+    height: 480px;
     border-top-right-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;
 }
@@ -138,8 +138,8 @@ body{
 }
 .head-text{
     font-family: var(--fraunces);
-    font-size: 2.2rem;
-    padding: 0.7rem 0;
+    font-size: 1.95rem;
+    padding: 0.7em 0;
     line-height: 2.5rem;
     letter-spacing: 2px;
 }
@@ -175,11 +175,11 @@ button{
     font-family: var(--montserrat);
     position: relative;
     cursor: pointer;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 }
 .icon{
     position: absolute;
-    left: 35px;
+    left: 40px;
     font-size: 0.7rem;
 }
 button:hover {
