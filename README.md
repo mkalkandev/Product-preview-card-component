@@ -73,7 +73,7 @@ tools
 
 
 
-# Writer
+# Author
 
 👤MustafaKalkan
 
